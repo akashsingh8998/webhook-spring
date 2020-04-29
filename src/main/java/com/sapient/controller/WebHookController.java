@@ -14,13 +14,13 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestController
-@RequestMapping("/hello")
+//@RequestMapping("/index")
 public class WebHookController {
 	
 	@Autowired
     public JavaMailSender emailSender;
 	
-	@PostMapping("/controller")
+	@PostMapping("/")
 	public void getMe(@RequestBody EmailMessage input) {
 		SimpleMailMessage message = new SimpleMailMessage();
 		message.setTo(input.getMail()); 
