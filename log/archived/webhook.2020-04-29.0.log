@@ -1,0 +1,9 @@
+2020-04-29 18:17:34,490 INFO com.sapient.webhookalert.WebhookAlertApplicationTests [main] Starting WebhookAlertApplicationTests on WKWIN6139632 with PID 20792 (started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\webhook-alert)
+2020-04-29 18:17:34,498 DEBUG com.sapient.webhookalert.WebhookAlertApplicationTests [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-29 18:17:34,499 INFO com.sapient.webhookalert.WebhookAlertApplicationTests [main] No active profile set, falling back to default profiles: default
+2020-04-29 18:17:36,724 INFO com.sapient.webhookalert.WebhookAlertApplicationTests [main] Started WebhookAlertApplicationTests in 2.571 seconds (JVM running for 4.081)
+2020-04-29 18:30:16,944 INFO com.sapient.webhookalert.WebhookAlertApplication [restartedMain] Starting WebhookAlertApplication on WKWIN6139632 with PID 21200 (C:\Users\akasingh9\Desktop\MicroServicesPractice\webhook-alert\target\classes started by akasingh9 in C:\Users\akasingh9\Desktop\MicroServicesPractice\webhook-alert)
+2020-04-29 18:30:16,947 DEBUG com.sapient.webhookalert.WebhookAlertApplication [restartedMain] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-29 18:30:16,947 INFO com.sapient.webhookalert.WebhookAlertApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-04-29 18:30:18,919 INFO com.sapient.webhookalert.WebhookAlertApplication [restartedMain] Started WebhookAlertApplication in 2.391 seconds (JVM running for 3.188)
+2020-04-29 18:30:50,912 INFO com.sapient.controller.WebHookController [http-nio-6769-exec-2] com.sapient.model.EmailMessage@7a6d3dca
